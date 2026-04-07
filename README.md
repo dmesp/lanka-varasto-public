@@ -48,8 +48,8 @@ This repository serves as the project overview. The codebase is split across thr
   <tr>
     <td valign="top"><img src="perfomance_mobile.png" width="200" /></td>
     <td valign="top">
-      <div style="display: flex; flex-direction: column; align-items:center; gap: 10px;">
-        <img src="lighthouse_desk.png" width="200" />
+      <div  width="750" style="display: flex; flex-direction: column; align-items:center; gap: 10px;">
+        <img src="lighthouse_desk.png" width="250" />
         <img src="metrics1_desk.png" width="250" />
         <img src="metrics2_desk.png" width="250" />
       </div>
@@ -128,7 +128,7 @@ Telegram Bot (Railway)      ← Admin interface for order & inventory management
 </table>
 
  <table> <tr>
-    <td valign="top"><img src="product_desk.png" width="750" /></td>
+    <td valign="top"><img src="product_desk.png" width="800" /></td>
   </tr></table>
 ---
 
