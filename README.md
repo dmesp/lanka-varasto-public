@@ -47,8 +47,8 @@ This repository serves as the project overview. The codebase is split across thr
   </tr>
   <tr>
     <td valign="top"><img src="perfomance_mobile.png" width="200" /></td>
-    <td valign="top">
-      <div  width="750" style="display: flex; flex-direction: column; align-items:center; gap: 10px;">
+    <td width="300" valign="top">
+      <div  width="300" style="display: flex; flex-direction: column; align-items:center; gap: 10px;">
         <img src="lighthouse_desk.png" width="250" />
         <img src="metrics1_desk.png" width="250" />
         <img src="metrics2_desk.png" width="250" />
