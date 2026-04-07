@@ -1,7 +1,7 @@
 # LankaVarasto 🧶
 > A full-stack e-commerce platform for an online yarn store - built end-to-end as a solo project.
 
-**Live site:** [lankavarasto.com](https://lankavarasto.com) (requires access)
+**Live site:** [lankavarasto.com](https://lankavarasto.com/en/?preview=dev-version-access-2026) 
 
 ---
 
@@ -29,7 +29,7 @@ This repository serves as the project overview. The codebase is split across thr
 
 **Integrations:** SendGrid (email), Google Analytics 4, Telegram Bot API & Python
 
----
+--- 
 
 ## Key Features
 
@@ -84,7 +84,7 @@ This repository serves as the project overview. The codebase is split across thr
 
 - **Oversell-safe reservation system** - custom stock reservation logic handling multi-weight product variants (e.g. the same yarn in 100g, 300g, 500g), ensuring inventory accuracy across concurrent sessions before payment confirmation
 - **Full checkout flow** - guest checkout with no account required, Paytrail payment processing, and automated order confirmation emails via SendGrid
-- **AI integration** - that reducing manual content work by generating SEO-optimized product descriptions from provided data 
+- **AI integration** - that reduces manual content work by generating SEO-optimized product descriptions from provided data 
 - **Telegram admin suite** - two bots with webhook for real-time order alerts, one-click status updates, tracking number delivery, and product catalog CRUD
 - **GDPR-compliant** — cookie consent system, user data access/deletion, analytics only with explicit consent
 
@@ -134,4 +134,4 @@ Telegram Bot (Railway)      ← Admin interface for order & inventory management
 
 ## About
 
-Built by Dima as a solo full-stack project in 2025–2026.
+Built by me as a solo full-stack project in 2025–2026.
